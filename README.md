@@ -1,12 +1,10 @@
 # SpotifyViz
 
-COP3503 Final Project: Visualization of music recommendations  
+COP3503 Final Project: Visualization of Music Recommendations Algorithm 
 
 [spotifyviz.com](http://spotifyviz.com)
 
-### The Core Graph and Analytical Features
 
-![The core features of the graph](/media/GraphFeatures.gif)
 
 
 
