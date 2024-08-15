@@ -10,7 +10,7 @@ $(document).ready(function() {
     });
 });
 
-//This code was stolen* from https://www.w3schools.com/howto/howto_js_autocomplete.asp
+//This code was taken from https://www.w3schools.com/howto/howto_js_autocomplete.asp
 // *With some modification, of course.
  
 function processData(allText) {
